@@ -1,0 +1,2 @@
+- christos-diakonos.jpg: http://ukchs.oaza.pl/nowa/wp-content/uploads/foto-1.jpg
+- login-form (template for index.html and assets): http://azmind.com/2015/04/19/bootstrap-login-forms/
